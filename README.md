@@ -16,7 +16,7 @@ Assuming that you have DAPR running open command line and go to the directory wi
 `dapr run --app-id testGrpcDaprService --app-port 5000 --protocol grpc --log-level debug dotnet run`
 
 ## Run Client locally
-Open a second command line and run the command  
+Open a second command line, go to the directory with TestGrpcWithDapr.Client.csproj and run the command  
 `dapr run --app-id testClient --protocol grpc --log-level debug dotnet run testGrpcDaprService SayHello GrpcLover`
 
 ## Notes
