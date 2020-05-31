@@ -1,6 +1,0 @@
-obj\Debug\netcoreapp3.1/Daprclient.cs \
-obj\Debug\netcoreapp3.1/DaprclientGrpc.cs: C:/Users/Gennadii.Svichinskyi/.nuget/packages/grpc.tools/2.29.0/build/native/include/google/protobuf/any.proto\
- C:/Users/Gennadii.Svichinskyi/.nuget/packages/grpc.tools/2.29.0/build/native/include/google/protobuf/empty.proto\
- C:/Users/Gennadii.Svichinskyi/.nuget/packages/grpc.tools/2.29.0/build/native/include/google/protobuf/duration.proto\
- protos/common/v1/common.proto\
- Protos/daprclient.proto
