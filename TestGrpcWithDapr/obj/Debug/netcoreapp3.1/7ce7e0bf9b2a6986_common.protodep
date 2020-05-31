@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Common.cs: C:/Users/Gennadii.Svichinskyi/.nuget/packages/grpc.tools/2.29.0/build/native/include/google/protobuf/any.proto\
+ Protos/common/v1/common.proto
